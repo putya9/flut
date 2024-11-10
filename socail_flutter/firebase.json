@@ -1,0 +1,37 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "infogram-7673c",
+          "appId": "1:887376585486:android:da2168bdcc41394db92d5f",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "infogram-7673c",
+          "configurations": {
+            "android": "1:887376585486:android:da2168bdcc41394db92d5f",
+            "ios": "1:887376585486:ios:7b89e7e77ea4ec59b92d5f",
+            "web": "1:887376585486:web:0cabe72b8d20061eb92d5f"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

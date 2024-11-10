@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "887376585486",
+    "project_id": "infogram-7673c",
+    "storage_bucket": "infogram-7673c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887376585486:android:da2168bdcc41394db92d5f",
+        "android_client_info": {
+          "package_name": "app.putya.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0nfXnUmRQe_uGB713W-6rjHOlHpG8tm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887376585486:android:72b622c609d953cbb92d5f",
+        "android_client_info": {
+          "package_name": "com.example.socail_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0nfXnUmRQe_uGB713W-6rjHOlHpG8tm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
